@@ -158,3 +158,36 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+*.csv
+*.out
+*.z
+*.h5
+*.sh
+
+data/*
+new_scores_sos1/*
+results/*
+results_for_paper/*
+results_for_paper_256/*
+run_xor_fs_1.py
+src/data/external_data/*
+src/data_creation/__pycache__/*
+src/data_creation/extract.log
+src/estimation/__pycache__/*
+src/estimation/feature_results/*
+src/estimation/fs_08_15/*
+src/estimation/new_feature_selection/*
+src/estimation/new_xor/*
+src/estimation/newxor/*
+src/estimation/results_for_paper_256_sos1/*
+src/estimation/test_08_15/*
+src/estimation/test_08_17/*
+src/estimation/test_new_ccls_group/*
+src/estimation/test_rfe/*
+src/estimation/test_sfs/*
+test_ccls_group/*
+testsum/*
+
+## no models files unless forced
+code/scores/models/*
