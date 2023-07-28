@@ -1,0 +1,532 @@
+"ID";"ICAO codes";"Names";"Country";"NUTS-3 localizations";"Metro Regions";"NUTS-3 aggregated";"NUTS-2 localizations";"EURO zone member"
+1;"BIKF";"Keflavik (Reykjavik)";"Iceland";"IS002";;"IS002";"IS00";0
+2;"BIRK";"Reykjavik";"Iceland";"IS001";;"IS001";"IS00";0
+3;"EBAW";"Antwerp";"Belgium";"BE211";"BE002M";"BE211";"BE21";1
+4;"EBBR";"Brussels-Zaventem";"Belgium";"BE241";"BE001MC";"BE100,BE231,BE241,BE242,BE310,BE32A,BE32C";"BE10,BE23,BE24,BE31,BE32";1
+5;"EBCI";"Brussels-Charleroi";"Belgium";"BE32B";"BE004M";"BE32B,BE32D,BE353";"BE32,BE35";1
+6;"EBKT";"Flanders (Wevelgem/Kortrijk)";"Belgium";"BE254";;"BE254";"BE25";1
+7;"EBLG";"Liège";"Belgium";"BE332";"BE005M";"BE331,BE332,BE334";"BE33";1
+8;"EBOS";"Ostende-Brügge";"Belgium";"BE255";;"BE255";"BE25";1
+9;"EBSG";"Saint Gishlain";"Belgium";"BE323";;"BE323";"BE32";1
+10;"EBSH";"Saint-Hubert";"Belgium";"BE344";;"BE344";"BE34";1
+11;"EBSP";"Spa-La Sauveniere";"Belgium";"BE335";;"BE335";"BE33";1
+12;"EBST,EBZW";"Sint-Truiden/Brustem, Zwartberg Airfield (Genk)";"Belgium";"BE224";;"BE224";"BE22";1
+13;"EDAH";"Heringsdorf (Usedom)";"Germany";"DE80N";;"DE80N";"DE80";1
+14;"EDAP";"Cottbus-Neuhausen";"Germany";"DE40G";;"DE40G";"DE40";1
+15;"EDBH";"Barth (Stralsund)";"Germany";"DE80L";;"DE80L";"DE80";1
+16;"EDBJ";"Jena-Schöngleina";"Germany";"DEG0J";;"DEG0J";"DEG0";1
+17;"EDBK";"Kyritz";"Germany";"DE40D";;"DE40D";"DE40";1
+18;"EDBN";"Neubrandenburg";"Germany";"DE80J";"DE064M";"DE80J";"DE80";1
+19;"EDCJ";"Chemnitz-Jahnsdorf";"Germany";"DED42";;"DED42";"DED4";1
+20;"EDDC";"Dresden";"Germany";"DED21";"DE009M";"DED21,DED2C,DED2E,DED2F";"DED2";1
+21;"EDDE,EDGE,EDBA";"Erfurt-Weimar, Eisenach-Kindel, Arnstadt-Alkersleben";"Germany";"DEG01,DEG0C,DEG0F";"DE032M";"DEG01,DEG0C,DEG0D,DEG0F";"DEG0";1
+22;"EDDF,EDFE,EDFB";"Frankfurt am Main, Frankfurt-Egelsbach, Reichelsheim";"Germany";"DE712,DE71C,DE71E";"DE005M";"DE712,DE713,DE717,DE718,DE719,DE71A,DE71C,DE71E";"DE71";1
+23;"EDDG";"Münster/Osnabrück";"Germany";"DEA37";;"DEA37";"DEA3";1
+24;"EDDH,EDHI";"Hamburg, Hamburg-Finkenwerder";"Germany";"DE600";"DE002M";"DE600,DE933,DE939,DEF06,DEF09,DEF0D,DEF0F";"DE60,DE93,DEF0";1
+25;"EDDK";"Köln/Bonn";"Germany";"DEA23";"DE004M";"DEA23,DEA24,DEA27,DEA2B";"DEA2";1
+26;"EDDL";"Düsseldorf";"Germany";"DEA11";"DE011M";"DEA11,DEA1C,DEA1D";"DEA1";1
+27;"EDDM,EDMJ,EDMO";"München, Jesenwang, Oberpfaffenhofen";"Germany";"DE21A,DE21C,DE21L";"DE003M";"DE212,DE217,DE218,DE21A,DE21B,DE21C,DE21E,DE21H,DE21L";"DE21";1
+28;"EDDN,EDQH";"Nürnberg, Herzogenaurach";"Germany";"DE254,DE257";"DE014M";"DE252,DE253,DE254,DE255,DE257,DE258,DE259,DE25B";"DE25";1
+29;"EDDP";"Leipzig/Halle";"Germany";"DED53";"DE008M";"DED51,DED52,DED53";"DED5";1
+30;"EDDR,EDRJ";"Saarbrücken, Saarlouis-Düren";"Germany";"DEC01,DEC04";"DE040M";"DEC01,DEC03,DEC04,DEC05";"DEC0";1
+31;"EDDT,EDDB,EDAY,EDAE,EDAZ";"Berlin-Tegel, Berlin-Schönefeld, Strausberg, Eisenhüttenstadt, Schönhagen";"Germany";"DE300,DE406,DE409,DE40C,DE40H";"DE001MC";"DE300,DE404,DE405,DE406,DE408,DE409,DE40A,DE40C,DE40E,DE40H";"DE30,DE40";1
+32;"EDDV";"Hannover-Langenhagen";"Germany";"DE929";"DE013M";"DE928,DE929";"DE92";1
+33;"EDDW";"Bremen";"Germany";"DE501";"DE012M";"DE501,DE922,DE936,DE937,DE93B,DE941";"DE50,DE92,DE93,DE94";1
+34;"EDFC";"Aschaffenburg";"Germany";"DE264";"DE061M";"DE261,DE264,DE269";"DE26";1
+35;"EDFH";"Frankfurt-Hahn";"Germany";"DEB1D";;"DEB1D";"DEB1";1
+36;"EDFM,EDRY";"Mannheim City, Speyer-Ludwigshafen";"Germany";"DE126,DEB38";"DE084M";"DE126,DE715,DEB31,DEB34,DEB36,DEB38,DEB3C,DEB3I";"DE12,DE71,DEB3";1
+37;"EDFQ";"Allendorf/Eder";"Germany";"DE736";;"DE736";"DE73";1
+38;"EDFV";"Worms";"Germany";"DEB39";;"DEB39";"DEB3";1
+39;"EDFZ";"Mainz-Finthen";"Germany";"DEB35";"DE037M";"DEB35,DEB3J";"DEB3";1
+40;"EDGS";"Siegerland";"Germany";"DEA5A";"DE540M";"DEA5A,DEB13";"DEA5,DEB1";1
+41;"EDHF";"Itzehoe/Hungriger Wolf";"Germany";"DEF0E";;"DEF0E";"DEF0";1
+42;"EDHG";"Lüneburg";"Germany";"DE935";;"DE935";"DE93";1
+43;"EDHK";"Kiel";"Germany";"DEF02";"DE039M";"DEF02,DEF0A,DEF0B";"DEF0";1
+44;"EDHL,EDHB";"Lübeck, Grube";"Germany";"DEF03,DEF08";"DE510M";"DEF03,DEF08";"DEF0";1
+45;"EDJA";"Memmingen";"Germany";"DE27C";;"DE27C";"DE27";1
+46;"EDKB";"Bonn/Hangelar";"Germany";"DEA2C";"DE034M";"DEA22,DEA2C";"DEA2";1
+47;"EDLE,EDLD,EDLW";"Essen/Mülheim, Dinslaken/Schwarze Heide, Dortmund";"Germany";"DEA16,DEA31,DEA52";"DE038M";"DEA12,DEA13,DEA16,DEA17,DEA1F,DEA31,DEA32,DEA36,DEA51,DEA52,DEA53,DEA54,DEA55,DEA56,DEA5C";"DEA1,DEA3,DEA5";1
+48;"EDLN";"Mönchengladbach";"Germany";"DEA15";"DE036M";"DEA15";"DEA1";1
+49;"EDLP";"Paderborn/Lippstadt";"Germany";"DEA47";"DE523M";"DEA47";"DEA4";1
+50;"EDLS";"Stadtlohn-Vreden";"Germany";"DEA34";"DE549M";"DEA34";"DEA3";1
+51;"EDLV";"Niederrhein (Weeze)";"Germany";"DEA1B";;"DEA1B";"DEA1";1
+52;"EDMA";"Augsburg";"Germany";"DE275";"DE033M";"DE271,DE275,DE276";"DE27";1
+53;"EDME";"Eggenfelden";"Germany";"DE22A";;"DE22A";"DE22";1
+54;"EDML";"Landshut";"Germany";"DE221";;"DE221";"DE22";1
+55;"EDMS";"Straubing";"Germany";"DE22B";;"DE22B";"DE22";1
+56;"EDMV";"Vilshofen";"Germany";"DE228";;"DE228";"DE22";1
+57;"EDNG";"Giegen/Brenz";"Germany";"DE11C";;"DE11C";"DE11";1
+58;"EDNL";"Leutkirch-Unterzeil";"Germany";"DE148";;"DE148";"DE14";1
+59;"EDNV";"Vogtareuth";"Germany";"DE21K";"DE069M";"DE213,DE21K";"DE21";1
+60;"EDNY";"Friedrichshafen/Bodensee";"Germany";"DE147";;"DE147";"DE14";1
+61;"EDOP";"Schwerin-Parchim";"Germany";"DE80O";"DE031M";"DE804,DE80O";"DE80";1
+62;"EDQA";"Bamberg-Breitenau";"Germany";"DE241";;"DE241";"DE24";1
+63;"EDQC";"Coburg-Brandensteinsebene";"Germany";"DE243";;"DE243";"DE24";1
+64;"EDQG";"Giebelstadt";"Germany";"DE26C";"DE524M";"DE263,DE268,DE26A,DE26C";"DE26";1
+65;"EDQM";"Hof-Plauen";"Germany";"DE244";;"DE244";"DE24";1
+66;"EDQT";"Haßfurt-Schweinfurt";"Germany";"DE267";;"DE267";"DE26";1
+67;"EDRK,EDRE";"Koblenz-Winningen, Mendig";"Germany";"DEB17";"DE042M";"DEB11,DEB17";"DEB1";1
+68;"EDRZ";"Zweibrücken";"Germany";"DEB3K";;"DEB3K";"DEB3";1
+69;"EDSA";"Albstadt-Degerfeld";"Germany";"DE143";;"DE143";"DE14";1
+70;"EDSB";"Karlsruhe/Baden-Baden";"Germany";"DE124";;"DE124";"DE12";1
+71;"EDSN";"Neuhausen ob Eck";"Germany";"DE137";;"DE137";"DE13";1
+72;"EDTD";"Donaueschingen-Villingen";"Germany";"DE136";;"DE136";"DE13";1
+73;"EDTF,EDTG";"Freiburg, Bremgarten";"Germany";"DE131,DE132";"DE027M";"DE131,DE132,DE133";"DE13";1
+74;"EDTH";"Heubach";"Germany";"DE11D";;"DE11D";"DE11";1
+75;"EDTL";"Lahr";"Germany";"DE134";"DE073M";"DE134";"DE13";1
+76;"EDTM";"Mengen-Hohentengen";"Germany";"DE149";;"DE149";"DE14";1
+77;"EDTQ,EDDS";"Pattonville (Kornwestheim), Stuttgart";"Germany";"DE111,DE113";"DE007M";"DE111,DE112,DE113,DE114,DE115,DE116";"DE11";1
+78;"EDTY";"Schwäbisch Hall-Hessental";"Germany";"DE11A";;"DE11A";"DE11";1
+79;"EDVE";"Braunschweig-Wolfsburg";"Germany";"DE911";"DE083M";"DE911,DE912,DE913,DE914,DE917,DE91A,DE91B";"DE91";1
+80;"EDVM";"Hildesheim";"Germany";"DE925";"DE542M";"DE925";"DE92";1
+81;"EDVY";"Porta Westfalica";"Germany";"DEA46";;"DEA46";"DEA4";1
+82;"EDVZ,EDVK";"Fuldatal, Kassel-Calden";"Germany";"DE734";"DE513M";"DE731,DE734";"DE73";1
+83;"EDWE";"Emden";"Germany";"DE942";;"DE942";"DE94";1
+84;"EDWI";"JadeWeserAirport (Wilhemshaven)";"Germany";"DE94A";;"DE94A";"DE94";1
+85;"EDWJ";"Juist";"Germany";"DE947";;"DE947";"DE94";1
+86;"EDWR";"Borkum";"Germany";"DE94C";;"DE94C";"DE94";1
+87;"EDWU";"Varrelbusch";"Germany";"DE948";;"DE948";"DE94";1
+88;"EDWX";"Westerstede-Felde";"Germany";"DE946";"DE520M";"DE943,DE946,DE94D";"DE94";1
+89;"EDXO,EDXW";"St. Peter-Ording, Sylt";"Germany";"DEF07";;"DEF07";"DEF0";1
+90;"EEKE";"Kuressaare";"Estonia";"EE004";;"EE004";"EE00";1
+91;"EETN";"Tallinn-Ulemiste";"Estonia";"EE001";"EE001MC";"EE001";"EE00";1
+92;"EETU";"Tartu";"Estonia";"EE008";;"EE008";"EE00";1
+93;"EFHK,EFHF,EFHV";"Helsinki Vantaa, Helsinki-Malmi, Hyvinkaa";"Finland";"FI1B1";"FI001MC";"FI1B1";"FI1B";1
+94;"EFIV,EFKE,EFKT,EFRO";"Ivalo, Kemi-Tornio, Kittilä, Rovaniemi";"Finland";"FI1D7";;"FI1D7";"FI1D";1
+95;"EFJO";"Joensuu";"Finland";"FI1D3";;"FI1D3";"FI1D";1
+96;"EFJY";"Jyväskylä";"Finland";"FI193";;"FI193";"FI19";1
+97;"EFKI";"Kajaani";"Finland";"FI1D8";;"FI1D8";"FI1D";1
+98;"EFKK,EFVA";"Kokkola-Pietarsaari/Kruunupyy, Vaasa";"Finland";"FI195";;"FI195";"FI19";1
+99;"EFKS,EFOU";"Kuusamo, Oulu";"Finland";"FI1D9";;"FI1D9";"FI1D";1
+100;"EFKU";"Kuopio";"Finland";"FI1D2";;"FI1D2";"FI1D";1
+101;"EFKY";"Kymi Airfield";"Finland";"FI1C4";;"FI1C4";"FI1C";1
+102;"EFLA";"Lahti Vesivehmaa";"Finland";"FI1C3";;"FI1C3";"FI1C";1
+103;"EFLP";"Lappeenranta";"Finland";"FI1C5";;"FI1C5";"FI1C";1
+104;"EFMA";"Mariehamn (Aland)";"Finland";"FI200";;"FI200";"FI20";1
+105;"EFPO";"Pori";"Finland";"FI196";;"FI196";"FI19";1
+106;"EFTP";"Tampere-Pirkkala";"Finland";"FI197";"FI002M";"FI197";"FI19";1
+107;"EFTU";"Turku";"Finland";"FI1C1";"FI003M";"FI1C1";"FI1C";1
+108;"EGAC,EGAA";"Belfast City (George Best), Belfast";"UK";"UKN06,UKN0D";"UK012M";"UKN06,UKN09,UKN0D,UKN0E";"UKN0";0
+109;"EGAE";"Derry";"UK";"UKN0A";;"UKN0A";"UKN0";0
+110;"EGBB";"Birmingham";"UK";"UKG32";"UK002M";"UKG31,UKG32,UKG36,UKG37,UKG38,UKG39";"UKG3";0
+111;"EGBJ";"Gloucestershire";"UK";"UKK13";;"UKK13";"UKK1";0
+112;"EGBP";"Cotswold (Kemble)";"UK";"UKK15";;"UKK15";"UKK1";0
+113;"EGCC";"Manchester";"UK";"UKD33";"UK008M";"UKD33,UKD34,UKD35,UKD36,UKD37,UKD62,UKF13";"UKD3,UKD6,UKF1";0
+114;"EGCN";"Doncaster Sheffield";"UK";"UKE31";"UK506M";"UKE31";"UKE3";0
+115;"EGFA,EGFE";"Aberporth, Haverfordwest";"UK";"UKL14";;"UKL14";"UKL1";0
+116;"EGFF";"Cardiff";"UK";"UKL22";"UK009M";"UKL15,UKL16,UKL22";"UKL1,UKL2";0
+117;"EGGD";"Bristol";"UK";"UKK12";"UK011M";"UKK11,UKK12";"UKK1";0
+118;"EGGP";"Liverpool John Lennon";"UK";"UKD72";"UK006M";"UKD47,UKD71,UKD72,UKD73,UKD74,UKM71";"UKD4,UKD7,UKM7";0
+119;"EGGW";"London Luton";"UK";"UKH21";;"UKH21";"UKH2";0
+120;"EGHH";"Bournemouth";"UK";"UKK24";;"UKK24";"UKK2";0
+121;"EGHI";"Southampton";"UK";"UKJ35";"UK023M";"UKJ31,UKJ35";"UKJ3";0
+122;"EGHQ";"Newquay Cornwall";"UK";"UKK30";;"UKK30";"UKK3";0
+123;"EGHR,EGKA";"Chichester/Goodwood, Shoreham (Brighton City)";"UK";"UKJ27";;"UKJ27";"UKJ2";0
+124;"EGKH";"Headcorn (Maidstone)";"UK";"UKJ45";;"UKJ45";"UKJ4";0
+125;"EGKK";"London Gatwick";"UK";"UKJ28";;"UKJ28";"UKJ2";0
+126;"EGLD";"Denham";"UK";"UKJ13";;"UKJ13";"UKJ1";0
+127;"EGLJ,EGTK,EGVN";"Chalgrove, London Oxford (Kidlington), RAF Brize Norton (Oxford)";"UK";"UKJ14";"UK560M";"UKJ14";"UKJ1";0
+128;"EGLK,EGLF";"Blackbushe, Farnborough Airfield";"UK";"UKJ37";;"UKJ37";"UKJ3";0
+129;"EGMD";"Lydd/London Ashford";"UK";"UKJ44";;"UKJ44";"UKJ4";0
+130;"EGNC";"Carlisle Lake District";"UK";"UKD12";;"UKD12";"UKD1";0
+131;"EGNE";"Retford Gamston";"UK";"UKF15";;"UKF15";"UKF1";0
+132;"EGNH";"Blackpool";"UK";"UKD45";"UK553M";"UKD41,UKD42,UKD45";"UKD4";0
+133;"EGNJ";"Humberside (Kirmington)";"UK";"UKE13";;"UKE13";"UKE1";0
+134;"EGNM";"Leeds Bradford";"UK";"UKE42";"UK003M";"UKE22,UKE42,UKE45";"UKE2,UKE4";0
+135;"EGNR";"Hawarden";"UK";"UKL23";"UK568M";"UKD63,UKL23";"UKD6,UKL2";0
+136;"EGNT";"Newcastle";"UK";"UKC22";"UK013M";"UKC21,UKC22";"UKC2";0
+137;"EGNV";"Teesside (Durham Tees Valley)";"UK";"UKC11";"UK559M";"UKC11,UKC12";"UKC1";0
+138;"EGNX";"East Midlands (Leicestershire)";"UK";"UKF22";"UK014M";"UKF16,UKF21,UKF22";"UKF1,UKF2";0
+139;"EGPA";"Kirkwall";"UK";"UKM65";;"UKM65";"UKM6";0
+140;"EGPB";"Sumburgh (Shetland Islands)";"UK";"UKM66";;"UKM66";"UKM6";0
+141;"EGPC";"Wick";"UK";"UKM61";;"UKM61";"UKM6";0
+142;"EGPD";"Aberdeen";"UK";"UKM50";"UK016M";"UKM50";"UKM5";0
+143;"EGPE,EGQS";"Inverness, RAF Lossiemouth";"UK";"UKM62";;"UKM62";"UKM6";0
+144;"EGPF";"Glasgow";"UK";"UKM83";"UK004M";"UKM81,UKM82,UKM83,UKM84,UKM95";"UKM8,UKM9";0
+145;"EGPH";"Edinburgh";"UK";"UKM75";"UK007M";"UKM73,UKM75,UKM78";"UKM7";0
+146;"EGPI,EGPU";"Islay, Tiree";"UK";"UKM63";;"UKM63";"UKM6";0
+147;"EGPK";"Glasgow-Prestwick";"UK";"UKM94";;"UKM94";"UKM9";0
+148;"EGPN";"Dundee";"UK";"UKM71";;"UKM71";"UKM7";0
+149;"EGPR,EGPL,EGPO";"Barra, Benbecula, Stornoway";"UK";"UKM64";;"UKM64";"UKM6";0
+150;"EGPT";"Perth/Scone";"UK";"UKM77";;"UKM77";"UKM7";0
+151;"EGSC";"Cambridge City";"UK";"UKH12";"UK017M";"UKH12";"UKH1";0
+152;"EGSH";"Norwich";"UK";"UKH15";"UK566M";"UKH15";"UKH1";0
+153;"EGSW,EGUN";"Newmarket Heath, RAF Mildenhall";"UK";"UKH14";"UK569M";"UKH14";"UKH1";0
+154;"EGTC";"Cranfield";"UK";"UKH25";;"UKH25";"UKH2";0
+155;"EGTE";"Exeter";"UK";"UKK43";"UK018M";"UKK43";"UKK4";0
+156;"EGTR,EGSS,EGSX,EGSG,EGMC,EGLC,EGKB,EGLL,EGWU,EGTF";"Elstree, London Stansted, North Weald, Stapleford, London Southend, London City, London Biggin Hill, London Heathrow, RAF Northolt, Fairoaks";"UK";"UKH23,UKH35,UKH35,UKH35,UKH37,UKI41,UKI61,UKI74,UKI74,UKJ25";"UK001MC";"UKH23,UKH31,UKH32,UKH35,UKH36,UKH37,UKI31,UKI32,UKI33,UKI34,UKI41,UKI42,UKI43,UKI44,UKI45,UKI51,UKI52,UKI53,UKI54,UKI61,UKI62,UKI63,UKI71,UKI72,UKI73,UKI74,UKI75,UKJ11,UKJ25,UKJ26,UKJ43,UKJ46";"UKH2,UKH3,UKI3,UKI4,UKI5,UKI6,UKI7,UKJ1,UKJ2,UKJ4";0
+157;"EHBK";"Maastricht Aachen";"Netherlands";"NL423";;"NL423";"NL42";1
+158;"EHEH";"Eindhoven";"Netherlands";"NL414";"NL005M";"NL414";"NL41";1
+159;"EHGG";"Groningen";"Netherlands";"NL131";;"NL131";"NL13";1
+160;"EHLE,EHKD,EHAM";"Lelystad, Den Helder, Amsterdam Schiphol";"Netherlands";"NL230,NL321,NL329";"NL002MC";"NL230,NL321,NL323,NL324,NL325,NL327,NL328,NL329";"NL23,NL32";1
+161;"EHRD";"Rotterdam Den Haag";"Netherlands";"NL33C";"NL003M";"NL33A,NL33C";"NL33";1
+162;"EHSE";"Breda (Hoeven-Seppe)";"Netherlands";"NL411";"NL012M";"NL411";"NL41";1
+163;"EIAB";"Abbeyshrule";"Ireland";"IE063";;"IE063";"IE06";1
+164;"EICK,EIKY";"Cork, Kerry";"Ireland";"IE053";"IE002M";"IE053";"IE05";1
+165;"EIDL,EISG";"Donegal, Sligo";"Ireland";"IE041";;"IE041";"IE04";1
+166;"EIDW,EIWT";"Dublin, Weston (Dublin)";"Ireland";"IE061";"IE001MC";"IE061,IE062";"IE06";1
+167;"EIKN";"Knock (Ireland West)";"Ireland";"IE042";;"IE042";"IE04";1
+168;"EINN";"Shannon";"Ireland";"IE051";;"IE051";"IE05";1
+169;"EKAH";"Aarhus";"Denmark";"DK042";"DK002M";"DK042";"DK04";0
+170;"EKBI,EKEB,EKSB";"Billund, Esbjerg, Sönderborg";"Denmark";"DK032";;"DK032";"DK03";0
+171;"EKCH,EKRK";"Kopenhagen-Kastrup, Kopenhagen-Roskilde";"Denmark";"DK011,DK021";"DK001MC";"DK011,DK012,DK013,DK021";"DK01,DK02";0
+172;"EKKA";"Karup (Midtyllands)";"Denmark";"DK041";;"DK041";"DK04";0
+173;"EKRN";"Bornholm";"Denmark";"DK014";;"DK014";"DK01";0
+174;"EKTS";"Thisted";"Denmark";"DK050";;"DK050";"DK05";0
+175;"EKYT";"Aalborg";"Denmark";"DK050";"DK004M";"DK050";"DK05";0
+176;"ELLX";"Luxemburg";"Luxemburg";"LU000";"LU001MC";"LU000";"LU00";1
+177;"ENAL,ENKB,ENML,ENOV";"Alesund/Vigra, Kristiansund, Molde-Arö, Örsta-Volda/Hovden";"Norway";"NO0A3";;"NO0A3";"NO0A";0
+178;"ENAN,ENBO,ENBN,ENEV,ENLK,ENRA,ENMS,ENRS,ENST,ENSK,ENSH";"Andöya/Andenes, Bodö, Brönnöysund, Harstad/Narvik, Leknes, Mo I Rana, Mosjöen/Kjaerstad, Röst, Sandnessjöen/Stokka, Stokmarknes/Skagen, Svolvaer/Helle";"Norway";"NO071";;"NO071";"NO07";0
+179;"ENAT,ENHF,ENKR,ENNA,ENMH,ENVD,ENDU,ENTC";"Alta (Elvebakken), Hammerfest, Kirkenes, Lakselv Banak, Mehamn, Vadsö, Bardufoss, Tromsö";"Norway";"NO074";;"NO074";"NO07";0
+180;"ENCN";"Kristiansand/Kjevik";"Norway";"NO092";;"NO092";"NO09";0
+181;"ENFA,ENNM,ENRM,ENVA";"Fröya (Flatval), Namsos, Rörvik/Ryum, Trondheim";"Norway";"NO060";"NO003M";"NO060";"NO06";0
+182;"ENFL,ENBL,ENSD,ENSG,ENBR,ENBM";"Florö, Förde, Sandane, Sogndal, Bergen-Flesland, Boemoen";"Norway";"NO0A2";;"NO0A2";"NO0A";0
+183;"ENHD,ENZV";"Haugesund, Stavanger";"Norway";"NO0A1";"NO002M";"NO0A1";"NO0A";0
+184;"ENKJ,ENGM";"Kjeller (Oslo), Oslo-Gardermoen";"Norway";"NO082";;"NO082";"NO08";0
+185;"ENTO,ENJB";"Sandefjord-Torp, Tönsberg/Jarlsberg";"Norway";"NO091";;"NO091";"NO09";0
+186;"EPBC,EPWA,EPMO";"Warschau-Babice, Warschau-Chopin, Warschau-Modlin";"Poland";"PL911,PL911,PL913";"PL001MC";"PL911,PL912,PL913";"PL91";0
+187;"EPBY";"Bromberg Ignacy-Jan-Paderewski";"Poland";"PL613";"PL008M";"PL613";"PL61";0
+188;"EPGD";"Danzig Lech-Walesa";"Poland";"PL633";"PL006M";"PL633,PL634";"PL63";0
+189;"EPHN";"Narew";"Poland";"PL842";;"PL842";"PL84";0
+190;"EPKK";"Krakau-Balice Johannes Paul II";"Poland";"PL214";"PL003M";"PL213,PL214";"PL21";0
+191;"EPKT";"Katowice";"Poland";"PL228";"PL010M";"PL228,PL229,PL22A,PL22B,PL22C";"PL22";0
+192;"EPLB";"Lublin-Swidnik";"Poland";"PL636";;"PL636";"PL63";0
+193;"EPLL";"Lodz Wladyslaw-Reymont";"Poland";"PL711";"PL002M";"PL711,PL712";"PL71";0
+194;"EPMI";"Miroslawiec (Militärflugplatz)";"Poland";"PL427";;"PL427";"PL42";0
+195;"EPML";"Mielec";"Poland";"PL824";;"PL824";"PL82";0
+196;"EPPI";"Pila";"Poland";"PL411";;"PL411";"PL41";0
+197;"EPPO";"Posen-Lawica";"Poland";"PL415";"PL005M";"PL415,PL418";"PL41";0
+198;"EPPW";"Powidz AB";"Poland";"PL414";;"PL414";"PL41";0
+199;"EPRA";"Warschau-Radom";"Poland";"PL921";"PL025M";"PL921";"PL92";0
+200;"EPRZ";"Rzeszow-Jasionka";"Poland";"PL823";"PL015M";"PL823";"PL82";0
+201;"EPSC";"Stettin-Goleniow";"Poland";"PL428";;"PL428";"PL42";0
+202;"EPSY";"Olsztyn-Mazury";"Poland";"PL622";"PL014M";"PL622";"PL62";0
+203;"EPWR";"Breslau Nikolaus-Kopernikus";"Poland";"PL514";"PL004M";"PL514";"PL51";0
+204;"EPWT";"Watorowo";"Poland";"PL616";;"PL616";"PL61";0
+205;"EPZG";"Zielona Gora-Babimost";"Poland";"PL432";;"PL432";"PL43";0
+206;"ESCM";"Uppsala-Ärna";"Sweden";"SE121";"SE006M";"SE121";"SE12";0
+207;"ESDF";"Ronneby";"Sweden";"SE221";;"SE221";"SE22";0
+208;"ESGG,ESGT";"Göteborg Landvetter, Trollhättan-Vändersborg";"Sweden";"SE232";"SE002M";"SE232";"SE23";0
+209;"ESGJ";"Jönköping";"Sweden";"SE211";;"SE211";"SE21";0
+210;"ESKM";"Mora-Silkan";"Sweden";"SE312";;"SE312";"SE31";0
+211;"ESKN";"Stockholm-Skavsta";"Sweden";"SE122";;"SE122";"SE12";0
+212;"ESMQ";"Kalmar";"Sweden";"SE213";;"SE213";"SE21";0
+213;"ESMT";"Halmstadt";"Sweden";"SE231";;"SE231";"SE23";0
+214;"ESMX";"Växjö/Kronoberg";"Sweden";"SE212";;"SE212";"SE21";0
+215;"ESNO,ESNN";"Örnsköldsvik, Sundsvall-Timra";"Sweden";"SE321";;"SE321";"SE32";0
+216;"ESNS,ESNU";"Skelleftea, Umea";"Sweden";"SE331";;"SE331";"SE33";0
+217;"ESNX,ESNQ,ESPA";"Arvidsjaur, Kiruna, Lulea";"Sweden";"SE332";;"SE332";"SE33";0
+218;"ESNZ";"Are Östersund";"Sweden";"SE322";;"SE322";"SE32";0
+219;"ESOE";"Örebro";"Sweden";"SE124";;"SE124";"SE12";0
+220;"ESOK";"Karlstadt";"Sweden";"SE311";;"SE311";"SE31";0
+221;"ESOW";"Stockholm-Västeras";"Sweden";"SE125";;"SE125";"SE12";0
+222;"ESSA,ESSB";"Stockholm Arlanda, Stockholm-Bromma";"Sweden";"SE110";"SE001MC";"SE110";"SE11";0
+223;"ESSL,ESCF,ESSP";"Linköping/Saab, Malmen Airbase, Norrköping";"Sweden";"SE123";;"SE123";"SE12";0
+224;"ESSV";"Visby";"Sweden";"SE214";;"SE214";"SE21";0
+225;"ESTA,ESMK,ESTL,ESMS";"Ängelholm-Helsingborg, Kristianstad, Ljungbyhed, Malmö";"Sweden";"SE224";"SE003M";"SE224";"SE22";0
+226;"ETAD";"Spangdahlem Air Base";"Germany";"DEB23";;"DEB23";"DEB2";1
+227;"ETAR";"Ramstein Air Base";"Germany";"DEB3F";"DE044M";"DEB32,DEB3F,DEB3G";"DEB3";1
+228;"ETHN";"Heeresflugplatz Niederstetten";"Germany";"DE11B";;"DE11B";"DE11";1
+229;"ETMN";"Cuxhaven-Nordholz";"Germany";"DE932";"DE527M";"DE502,DE932";"DE50,DE93";1
+230;"ETNL";"Rostock-Laage";"Germany";"DE80K";"DE043M";"DE803,DE80K";"DE80";1
+231;"ETOU";"Wiesbaden-Erbenheim Air Base";"Germany";"DE714";"DE020M";"DE714,DE71D";"DE71";1
+232;"ETSI";"Ingolstadt/Manching ";"Germany";"DE21J";"DE534M";"DE211,DE219,DE21I,DE21J";"DE21";1
+233;"EVLA";"Liepaja";"Latvia";"LV003";;"LV003";"LV00";1
+234;"EVRA,EVRS";"Riga Int’l, Riga-Spilve";"Latvia";"LV007";"LV001MC";"LV006,LV007";"LV00";1
+235;"EYKS,EYKA";"Aleksotas (Kaunas), Kaunas";"Lithuania";"LT022";"LT002M";"LT022";"LT02";1
+236;"EYPA";"Palanga";"Lithuania";"LT023";;"LT023";"LT02";1
+237;"EYSA";"Siauliai";"Lithuania";"LT026";;"LT026";"LT02";1
+238;"EYVP,EYVI";"Paluknys, Vilnius";"Lithuania";"LT011";"LT001MC";"LT011";"LT01";1
+239;"GCFV";"Fuerteventura";"Spain";"ES704";;"ES704";"ES70";1
+240;"GCGM";"La Gomera";"Spain";"ES706";;"ES706";"ES70";1
+241;"GCHI";"El Hierro (Kanaren)";"Spain";"ES703";;"ES703";"ES70";1
+242;"GCLA";"La Palma";"Spain";"ES707";;"ES707";"ES70";1
+243;"GCLP";"Gran Canaria";"Spain";"ES705";"ES008M";"ES705";"ES70";1
+244;"GCRR";"Lanzarote";"Spain";"ES708";;"ES708";"ES70";1
+245;"GCXO,GCTS";"Teneriffa Nord, Teneriffa Süd";"Spain";"ES709";"ES025M";"ES709";"ES70";1
+246;"GEML";"Melilla";"Spain";"ES640";;"ES640";"ES64";1
+247;"LATI";"Tirana";"Albania";"AL022 (AL012?)";;"AL022";"AL02";0
+248;"LBBG";"Burgas";"Bulgaria";"BG341";"BG004M";"BG341";"BG34";0
+249;"LBPD";"Plowdiw";"Bulgaria";"BG421";"BG002M";"BG421";"BG42";0
+250;"LBSF";"Sofia";"Bulgaria";"BG411";"BG001MC";"BG411,BG412,BG414";"BG41";0
+251;"LBWN";"Warna";"Bulgaria";"BG331";"BG003M";"BG331";"BG33";0
+252;"LCLK,LCRA,LCPH";"Larnaka, Limassol RAF Station Akrotiri, Paphos";"Cyprus";"CY000";"CY001MC";"CY000";"CY00";1
+253;"LDDU";"Dubrovnik";"Croatia";"HR037";;"HR037";"HR03";0
+254;"LDLO,LDRI";"Losinj, Rijeka";"Croatia";"HR031";;"HR031";"HR03";0
+255;"LDPL";"Pula";"Croatia";"HR036";;"HR036";"HR03";0
+256;"LDSB,LDSP";"Brac, Split";"Croatia";"HR035";"HR005M";"HR035";"HR03";0
+257;"LDVA";"Varazdin";"Croatia";"HR062";;"HR062";"HR06";0
+258;"LDZA";"Zagreb Franjo Tudman/Pleso";"Croatia";"HR065";"HR001MC";"HR050,HR064,HR065";"HR05,HR06";0
+259;"LDZD";"Zadar (Zemunik Donji)";"Croatia";"HR033";;"HR033";"HR03";0
+260;"LEAL";"Alicante-Elche";"Spain";"ES521";"ES021M";"ES521";"ES52";1
+261;"LEAM";"Almeria";"Spain";"ES611";;"ES611";"ES61";1
+262;"LEAP,LEGE";"Empuriabrava-Gerona, Girona Costa Brava";"Spain";"ES512";;"ES512";"ES51";1
+263;"LEAS";"Asturias";"Spain";"ES120";"ES013M";"ES120";"ES12";1
+264;"LEBB";"Bilbao";"Spain";"ES213";"ES019M";"ES213";"ES21";1
+265;"LEBG";"Burgos";"Spain";"ES412";;"ES412";"ES41";1
+266;"LEBL";"Barcelona-El Prat";"Spain";"ES511";"ES002M";"ES511";"ES51";1
+267;"LECH,LETL";"Castellon-Costa Azahar, Teruel";"Spain";"ES242";;"ES242";"ES24";1
+268;"LECI";"Santa Cilia De Jaca";"Spain";"ES241";;"ES241";"ES24";1
+269;"LECO,LEST";"A Coruna, Santiago de Compostela";"Spain";"ES111";"ES026M";"ES111";"ES11";1
+270;"LEFM";"Segovia/Fuentemilanos";"Spain";"ES416";;"ES416";"ES41";1
+271;"LEGR";"Granada-Jaen";"Spain";"ES614";"ES501M";"ES614";"ES61";1
+272;"LEIB";"Ibiza";"Spain";"ES531";;"ES531";"ES53";1
+273;"LELC";"Murcia-San Javier";"Spain";"ES620";"ES007M";"ES620";"ES62";1
+274;"LELN";"Leon";"Spain";"ES413";;"ES413";"ES41";1
+275;"LEMD,LECU";"Madrid-Barajas, Madrid-Cuatro Vientos";"Spain";"ES300";"ES001MC";"ES300";"ES30";1
+276;"LEMG";"Malaga";"Spain";"ES617";"ES006M";"ES617";"ES61";1
+277;"LEMH,LESL";"Menorca, San Luis (Menorca)";"Spain";"ES533";;"ES533";"ES53";1
+278;"LEPA,LESB";"Palma de Mallorca, Son Bonet (Mallorca)";"Spain";"ES532";"ES010M";"ES532";"ES53";1
+279;"LEPP";"Pamplona-Noain";"Spain";"ES220";"ES014M";"ES220";"ES22";1
+280;"LERS";"Reus";"Spain";"ES514";;"ES514";"ES51";1
+281;"LERT,LEJR";"Cadiz Rota AB (military), Jerez de la Frontera (Cadiz)";"Spain";"ES612";"ES522M";"ES612";"ES61";1
+282;"LESO";"San Sebastian";"Spain";"ES212";"ES510M";"ES212";"ES21";1
+283;"LESU";"Andorra-La Seu d’Urgell";"Spain";"ES513";;"ES513";"ES51";1
+284;"LEVC";"Valencia";"Spain";"ES523";"ES003M";"ES523";"ES52";1
+285;"LEVD";"Valladolid";"Spain";"ES418";"ES009M";"ES418";"ES41";1
+286;"LEVT";"Vitoria";"Spain";"ES211";"ES012M";"ES211";"ES21";1
+287;"LEVX";"Vigo";"Spain";"ES114";"ES022M";"ES114";"ES11";1
+288;"LEXJ";"Santander";"Spain";"ES130";"ES015M";"ES130";"ES13";1
+289;"LEZG";"Saragossa";"Spain";"ES243";"ES005M";"ES243";"ES24";1
+290;"LEZL";"Sevilla";"Spain";"ES618";"ES004M";"ES618";"ES61";1
+291;"LFAC,LFQT,LFAT";"Calais-Dunkerque, Merville-Calonne, Touquet-Cote d’Opale";"France";"FRE12";;"FRE12";"FRE1";1
+292;"LFAF";"Laon-Chambry";"France";"FRE21";;"FRE21";"FRE2";1
+293;"LFAQ,LFAY";"Albert-Picardie, Amien-Glisy";"France";"FRE23";"FR014M";"FRE23";"FRE2";1
+294;"LFBA";"Agen La Garenne";"France";"FRI14";;"FRI14";"FRI1";1
+295;"LFBE,LFBX";"Bergerac, Perigueux-Bassillac";"France";"FRI11";;"FRI11";"FRI1";1
+296;"LFBH";"La Rochelle";"France";"FRI32";;"FRI32";"FRI3";1
+297;"LFBI";"Poitiers-Biard";"France";"FRI34";"FR021M";"FRI34";"FRI3";1
+298;"LFBL";"Limoges";"France";"FRI23";"FR024M";"FRI23";"FRI2";1
+299;"LFBO";"Toulouse-Blagnac";"France";"FRJ23";"FR004M";"FRJ23";"FRJ2";1
+300;"LFBT";"Lourdes";"France";"FRJ26";;"FRJ26";"FRJ2";1
+301;"LFBZ,LFBP";"Biarritz Pays Basque, Pau-Pyrenaen";"France";"FRI15";"FR045M";"FRI15";"FRI1";1
+302;"LFCH,LFBD";"Arcachon-La Teste de Buch, Bordeaux-Merignac";"France";"FRI12";"FR007M";"FRI12";"FRI1";1
+303;"LFCK";"Castres-Mazamet";"France";"FRJ27";;"FRJ27";"FRJ2";1
+304;"LFCR";"Rodez-Aveyron";"France";"FRJ22";;"FRJ22";"FRJ2";1
+305;"LFFI,LFRE,LFRS,LFRZ";"Ancenis, La Baule-Escoublac, Nantes Atlantique, Saint-Nazaire Montoir";"France";"FRG01";"FR008M";"FRG01";"FRG0";1
+306;"LFGJ";"Dole-Jura";"France";"FRC22";;"FRC22";"FRC2";1
+307;"LFJL";"Metz-Nancy-Lothringen";"France";"FRF33";;"FRF33";"FRF3";1
+308;"LFJR";"Angers Loire";"France";"FRG02";"FR036M";"FRG02";"FRG0";1
+309;"LFJY,LFSN";"Chambley-Bussieres AB, Nancy-Essey";"France";"FRF31";"FR016M";"FRF31";"FRF3";1
+310;"LFKB,LFKC,LFKS";"Bastia-Poretta, Calvi, Solenzara";"France";"FRM02";;"FRM02";"FRM0";1
+311;"LFKJ,LFKF,LFKO";"Ajaccio, Figari Sud-Corse, Propriano";"France";"FRM01";;"FRM01";"FRM0";1
+312;"LFLA";"Auxerre-Branches";"France";"FRC14";;"FRC14";"FRC1";1
+313;"LFLB";"Chambery-Savoie";"France";"FRK27";;"FRK27";"FRK2";1
+314;"LFLC";"Clermont-Ferrand Auvergne";"France";"FRK14";"FR022M";"FRK14";"FRK1";1
+315;"LFLL,LFLY";"Lyon Saint-Exupery, Lyon-Bron";"France";"FRK26";"FR003M";"FRK26";"FRK2";1
+316;"LFLP,LFLI,LFHM";"Annecy Mont-Blanc, Annemasse, Megeve";"France";"FRK28";"FR048M";"FRK28";"FRK2";1
+317;"LFLU";"Valence-Chabeuil";"France";"FRK23";;"FRK23";"FRK2";1
+318;"LFLV";"Vichy-Charmeil";"France";"FRK11";;"FRK11";"FRK1";1
+319;"LFLW";"Aurillac-Tronquieres";"France";"FRK12";;"FRK12";"FRK1";1
+320;"LFLX";"Chateauroux";"France";"FRB03";;"FRB03";"FRB0";1
+321;"LFMA,LFMI,LFML,LFMF,LFTZ,LFTH";"Aix-Les Milles, Istres-Le Tube AB, Marseille, Fayence-Tourrettes Airfield, St. Tropez/La Mole, Toulon-Hyeres";"France";"FRL04,FRL04,FRL04,FRL05,FRL05,FRL05";"FR203M";"FRL04,FRL05";"FRL0";1
+322;"LFMD,LFMN";"Cannes-Mandelieu, Nizaa Cote d’Azur";"France";"FRL03";"FR205M";"FRL03";"FRL0";1
+323;"LFMH";"Saint-Etienne – Boutheon";"France";"FRK25";"FR011M";"FRK25";"FRK2";1
+324;"LFMK,LFMZ";"Carcassonne, Lezignan-Corbieres";"France";"FRJ11";;"FRJ11";"FRJ1";1
+325;"LFMP";"Perpignan-Rivesaltes";"France";"FRJ15";"FR043M";"FRJ15";"FRJ1";1
+326;"LFMU,LFMT";"Beziers Cap d’Agde, Montpellier-Mediterranee";"France";"FRJ13";"FR010M";"FRJ13";"FRJ1";1
+327;"LFMV,LFNH,LFMO,LFNV";"Avignon, Carpentras/Ventoux, Orange-Caritat, Valreas Visan";"France";"FRL06";;"FRL06";"FRL0";1
+328;"LFOE";"Evreux-Fauville (military)";"France";"FRD21";;"FRD21";"FRD2";1
+329;"LFOH,LFOP";"Le Havre Octeville, Rouen";"France";"FRD22";"FR015M";"FRD22";"FRD2";1
+330;"LFOJ,LFOZ";"Orleans-Bricy (military), Orleans-Saint-Denis-de-l’Hotel";"France";"FRB06";"FR019M";"FRB06";"FRB0";1
+331;"LFOK,LFQA";"Chalons Vatry, Reims-Prunay";"France";"FRF23";"FR018M";"FRF23";"FRF2";1
+332;"LFOT";"Tours";"France";"FRB04";"FR035M";"FRB04";"FRB0";1
+333;"LFOV";"Laval-Entrammes";"France";"FRG03";;"FRG03";"FRG0";1
+334;"LFPM,LFAI,LFPN,LFPV,LFPO,LFPG,LFPB,LFPT";"Melun-Villaroche, Nangis-Les Loges, Toussus-le-Noble, Villacoublay, Paris-Orly, Paris Charles-de-Gaulle, Paris-Le Bourget, Pontoise-Cormeilles";"France";"FR102,FR102,FR103,FR103,FR104,FR106,FR108,FR108";"FR001MC";"FR101,FR102,FR103,FR104,FR105,FR106,FR107,FR108";"FR10";1
+335;"LFPP,LFOB,LFQB";"Le Plessis-Belleville, Paris-Beauvais-Tille, Troyes-Barberey";"France";"FRE22";;"FRE22";"FRE2";1
+336;"LFQG";"Nevers-Fourchambault";"France";"FRC12";;"FRC12";"FRC1";1
+337;"LFQM";"Besancon-La Veze";"France";"FRC21";"FR025M";"FRC21";"FRC2";1
+338;"LFQQ,LFAV";"Lille Lesquin, Valenciennes-Denain";"France";"FRE11";"FR009M";"FRE11";"FRE1";1
+339;"LFRB,LFRQ,LFEC";"Brest-Bretagne, Quimper-Cornouaille, Ushant";"France";"FRH02";"FR037M";"FRH02";"FRH0";1
+340;"LFRC";"Cherbourg-Maupertus";"France";"FRD12";;"FRD12";"FRD1";1
+341;"LFRD,LFRN";"Dinard-Pleurtuit Saint-Malo, Rennes";"France";"FRH03";"FR013M";"FRH03";"FRH0";1
+342;"LFRH,LFRV";"Lorient Bretagne Sud, Vannes";"France";"FRH04";;"FRH04";"FRH0";1
+343;"LFRI";"La Roche-sur-Yon";"France";"FRG05";;"FRG05";"FRG0";1
+344;"LFRK,LFRG";"Caen-Carpiquet, Deauville-Normandie";"France";"FRD11";"FR023M";"FRD11";"FRD1";1
+345;"LFRO,LFRT";"Lannion-Cote de Granit, Saint Brieuc-Armor";"France";"FRH01";;"FRH01";"FRH0";1
+346;"LFSB,LFGA";"Basel Mulhouse Freiburg, Colmar-Houssen";"France";"FRF12";"FR040M";"FRF12";"FRF1";1
+347;"LFSD";"Dijon-Bourgogne";"France";"FRC11";"FR020M";"FRC11";"FRC1";1
+348;"LFSG";"Epinal-Mirecourt";"France";"FRF34";;"FRF34";"FRF3";1
+349;"LFSL";"Brive-Souillac";"France";"FRI21";;"FRI21";"FRI2";1
+350;"LFST";"Straßburg";"France";"FRF11";"FR006M";"FRF11";"FRF1";1
+351;"LFTW";"Nimes-Arles-Camargue-Cevennes";"France";"FRJ12";"FR044M";"FRJ12";"FRJ1";1
+352;"LGAL";"Alexandroupoli";"Greece";"EL511";;"EL511";"EL51";1
+353;"LGAV,LGKC";"Athen-Eleftherios Venizelos, Kithira";"Greece";"EL305,EL307";"EL001MC";"EL301,EL302,EL303,EL304,EL305,EL307";"EL30";1
+354;"LGBL,LGSK";"Nea Anchialos (Volos), Skiathos Alexandros Papadiamantis";"Greece";"EL613";;"EL613";"EL61";1
+355;"LGEL";"Elefsis AB";"Greece";"EL306";;"EL306";"EL30";1
+356;"LGHI";"Chios";"Greece";"EL413";;"EL413";"EL41";1
+357;"LGIK,LGSM";"Ikaria Island, Samos";"Greece";"EL412";;"EL412";"EL41";1
+358;"LGIO";"Ioannina";"Greece";"EL543";;"EL543";"EL54";1
+359;"LGIR";"Heraklion-Nikos Kazantzakis";"Greece";"EL431";;"EL431";"EL43";1
+360;"LGKA";"Kastoria";"Greece";"EL532";;"EL532";"EL53";1
+361;"LGKF";"Kefalonia";"Greece";"EL623";;"EL623";"EL62";1
+362;"LGKL";"Kalamata";"Greece";"EL653";;"EL653";"EL65";1
+363;"LGKR";"Korfu Kerkyra";"Greece";"EL622";;"EL622";"EL62";1
+364;"LGKV";"Kavala";"Greece";"EL515";;"EL515";"EL51";1
+365;"LGKZ";"Kozani";"Greece";"EL531";;"EL531";"EL53";1
+366;"LGLM,LGMT";"Limnos, Mytilini (Lesbos)";"Greece";"EL411";;"EL411";"EL41";1
+367;"LGLR";"Larissa (miltary only)";"Greece";"EL612";;"EL612";"EL61";1
+368;"LGML,LGMK,LGNX,LGPA,LGSR,LGSO";"Milos, Mykonos, Naxos, Paros, Santorin Thira, Syros";"Greece";"EL422";;"EL422";"EL42";1
+369;"LGPL,LGKY,LGKP,LGKS,LGKJ,LGKO,LGLE,LGRP";"Astypalaia, Kalymnos, Karpathos, Kasos, Kastellorizo, Kos, Leros, Rhodos";"Greece";"EL421";;"EL421";"EL42";1
+370;"LGPZ";"Aktio";"Greece";"EL631";;"EL631";"EL63";1
+371;"LGRX";"Araxos";"Greece";"EL632";;"EL632";"EL63";1
+372;"LGSA";"Chania";"Greece";"EL434";;"EL434";"EL43";1
+373;"LGST";"Sitia (Kreta)";"Greece";"EL432";;"EL432";"EL43";1
+374;"LGSY";"Skyros";"Greece";"EL642";;"EL642";"EL64";1
+375;"LGTS";"Thessaloniki";"Greece";"EL522";"EL002M";"EL522";"EL52";1
+376;"LGZA";"Zakynthos";"Greece";"EL621";;"EL621";"EL62";1
+377;"LHBP,LHTL";"Budapest-Liszt Ferenc, Tököl";"Hungary";"HU110,HU120";"HU001MC";"HU110,HU120";"HU11,HU12";0
+378;"LHDC";"Debrecen";"Hungary";"HU321";"HU005M";"HU321";"HU32";0
+379;"LHKE";"Kesckemet AirBase";"Hungary";"HU331";;"HU331";"HU33";0
+380;"LHPP";"Pecs-Pogany";"Hungary";"HU231";"HU004M";"HU231";"HU23";0
+381;"LHPR";"Györ-Per";"Hungary";"HU221";;"HU221";"HU22";0
+382;"LHSM";"Heviz-Balaton";"Hungary";"HU223";;"HU223";"HU22";0
+383;"LIBC";"Crotone";"Italy";"ITF62";;"ITF62";"ITF6";1
+384;"LIBD";"Bari";"Italy";"ITF47";"IT008M";"ITF47";"ITF4";1
+385;"LIBP";"Pescara";"Italy";"ITF13";;"ITF13";"ITF1";1
+386;"LIBR";"Brindisi";"Italy";"ITF44";;"ITF44";"ITF4";1
+387;"LICA";"Lamezia Terme";"Italy";"ITF63";;"ITF63";"ITF6";1
+388;"LICB";"Comiso";"Italy";"ITG18";;"ITG18";"ITG1";1
+389;"LICC";"Catania-Fontanarossa";"Italy";"ITG17";"IT010M";"ITG17";"ITG1";1
+390;"LICD";"Lampedusa";"Italy";"ITG14";;"ITG14";"ITG1";1
+391;"LICG,LICT";"Pantelleria, Trapani";"Italy";"ITG11";;"ITG11";"ITG1";1
+392;"LICJ";"Palermo-Punta Raisi";"Italy";"ITG12";"IT005M";"ITG12";"ITG1";1
+393;"LICR";"Reggio Calabria";"Italy";"ITF65";;"ITF65";"ITF6";1
+394;"LICZ";"Catania-Sigonella";"Italy";"ITG19";;"ITG19";"ITG1";1
+395;"LIDA";"Asiago";"Italy";"ITH32";;"ITH32";"ITH3";1
+396;"LIDF";"Fano";"Italy";"ITI31";;"ITI31";"ITI3";1
+397;"LIDU";"Carpi-Budrione";"Italy";"ITH54";;"ITH54";"ITH5";1
+398;"LIEA,LIEO";"Alghero-Fertilia, Olbia Costa Smeralda";"Italy";"ITG2D";;"ITG2D";"ITG2";1
+399;"LIEE";"Cagliari";"Italy";"ITG2F";"IT027M";"ITG2F";"ITG2";1
+400;"LIMB,LIML";"Bresso (Mailand), Mailand-Linate";"Italy";"ITC4C";"IT002M";"ITC49,ITC4C,ITC4D";"ITC4";1
+401;"LIMC";"Mailand-Malpensa";"Italy";"ITC41";;"ITC41";"ITC4";1
+402;"LIME";"Bergamo";"Italy";"ITC46";"IT511M";"ITC46";"ITC4";1
+403;"LIMF";"Turin";"Italy";"ITC11";"IT004M";"ITC11";"ITC1";1
+404;"LIMG";"Riviera (Albenga)";"Italy";"ITC32";;"ITC32";"ITC3";1
+405;"LIMJ";"Genua";"Italy";"ITC33";"IT006M";"ITC33";"ITC3";1
+406;"LIMP";"Parma";"Italy";"ITH52";"IT503M";"ITH52";"ITH5";1
+407;"LIMW";"Aosta";"Italy";"ITC20";;"ITC20";"ITC2";1
+408;"LIMZ";"Cuneo";"Italy";"ITC16";;"ITC16";"ITC1";1
+409;"LIPB";"Bozen";"Italy";"ITH10";;"ITH10";"ITH1";1
+410;"LIPE";"Bologna ";"Italy";"ITH55";"IT009M";"ITH55";"ITH5";1
+411;"LIPH";"Treviso";"Italy";"ITH34";;"ITH34";"ITH3";1
+412;"LIPQ";"Triest";"Italy";"ITH43";;"ITH43";"ITH4";1
+413;"LIPR";"Rimini";"Italy";"ITH59";;"ITH59";"ITH5";1
+414;"LIPX";"Verona Villafranca";"Italy";"ITH31";"IT012M";"ITH31";"ITH3";1
+415;"LIPY";"Ancona/Marche";"Italy";"ITI32";;"ITI32";"ITI3";1
+416;"LIPZ";"Venedig-Tessera";"Italy";"ITH35";"IT011M";"ITH35";"ITH3";1
+417;"LIQS";"Siena";"Italy";"ITI19";;"ITI19";"ITI1";1
+418;"LIQW";"Sarzana-Luni (military)";"Italy";"ITC34";;"ITC34";"ITC3";1
+419;"LIRE,LIRA,LIRF,LIRU";"Pratica die Mare (military), Rom-Ciampino, Rom-Fiumicino, Rom-Urbe";"Italy";"ITI43";"IT001MC";"ITI43";"ITI4";1
+420;"LIRI";"Salerno";"Italy";"ITF35";;"ITF35";"ITF3";1
+421;"LIRJ";"Marina di Campo (Elba)";"Italy";"ITI16";;"ITI16";"ITI1";1
+422;"LIRN";"Neapel";"Italy";"ITF33";"IT003M";"ITF33";"ITF3";1
+423;"LIRP";"Pisa";"Italy";"ITI17";;"ITI17";"ITI1";1
+424;"LIRQ";"Florenz";"Italy";"ITI14";"IT007M";"ITI14";"ITI1";1
+425;"LIRS";"Grosseto";"Italy";"ITI1A";;"ITI1A";"ITI1";1
+426;"LIRZ";"Perugia";"Italy";"ITI21";;"ITI21";"ITI2";1
+427;"LJLJ";"Ljubljana";"Slovenia";"SI042";;"SI042";"SI04";1
+428;"LJMB";"Maribor";"Slovenia";"SI032";"SI002M";"SI032";"SI03";1
+429;"LJPZ";"Portoroz";"Slovenia";"SI044";;"SI044";"SI04";1
+430;"LKHK";"Hradec Kralove";"Czech Republic";"CZ052";;"CZ052";"CZ05";0
+431;"LKJI";"Jihlava";"Czech Republic";"CZ063";;"CZ063";"CZ06";0
+432;"LKKU";"Kunovice";"Czech Republic";"CZ072";;"CZ072";"CZ07";0
+433;"LKKV";"Karlsbad";"Czech Republic";"CZ041";;"CZ041";"CZ04";0
+434;"LKMT";"Ostrava";"Czech Republic";"CZ080";"CZ003M";"CZ080";"CZ08";0
+435;"LKPD,LKVM";"Pardubice, Vysoke Myto";"Czech Republic";"CZ053";;"CZ053";"CZ05";0
+436;"LKPR";"Prag Vaclav-Havel, Prag-Kbely, Prag-Letnany, Benesov, Mnichovo Hradiste";"Czech Republic";"CZ010,CZ010,CZ010,CZ020,CZ020";"CZ001MC";"CZ010,CZ020";"CZ01,CZ02";0
+437;"LKTB";"Brünn (Brno-Turany)";"Czech Republic";"CZ064";"CZ002M";"CZ064";"CZ06";0
+438;"LMML";"Malta Luqa";"Malta";"MT001";"MT001MC";"MT001";"MT00";1
+439;"LOAN";"Wiener Neustadt-Ost";"Austria";"AT122";;"AT122";"AT12";1
+440;"LOAV,LOWW";"Vöslau-Kottingbrunn, Wien-Schwechat";"Austria";"AT127";"AT001MC";"AT112,AT125,AT126,AT127,AT130";"AT11,AT12,AT13";1
+441;"LOIJ";"St. Johann/Tirol";"Austria";"AT335";;"AT335";"AT33";1
+442;"LOKW";"Wolfsberg";"Austria";"AT213";;"AT213";"AT21";1
+443;"LOLW,LOWL";"Wels, Linz";"Austria";"AT312";"AT003M";"AT312,AT313";"AT31";1
+444;"LOWG";"Graz";"Austria";"AT221";"AT002M";"AT221,AT225";"AT22";1
+445;"LOWI";"Innsbruck";"Austria";"AT332";"AT005M";"AT332";"AT33";1
+446;"LOWK";"Klagenfurt";"Austria";"AT211";;"AT211";"AT21";1
+447;"LOWS";"Salzburg";"Austria";"AT323";"AT004M";"AT323";"AT32";1
+448;"LPBJ";"Beja";"Portugal";"PT184";;"PT184";"PT18";1
+449;"LPCS,LPPT";"Cascais, Lissabon-Humberto Delgado";"Portugal";"PT170";"PT001MC";"PT170";"PT17";1
+450;"LPFL,LPGR,LPHR,LPLA,LPPI,LPPD,LPAZ,LPSJ";"Flores (Azoren), Graciosa, Horta, Lajes Field, Pico, Ponta Delgada, Santa Maria, Sao Jorge";"Portugal";"PT200";;"PT200";"PT20";1
+451;"LPFR,LPPM";"Faro, Portimao";"Portugal";"PT150";;"PT150";"PT15";1
+452;"LPMA,LPPS";"Madeira (Funchal), Porto Santo";"Portugal";"PT300";;"PT300";"PT30";1
+453;"LPPR";"Porto";"Portugal";"PT11A";"PT002M";"PT11A";"PT11";1
+454;"LPVZ";"Viseu";"Portugal";"PT16G";;"PT16G";"PT16";1
+455;"LRAR";"Arad";"Romania";"RO421";;"RO421";"RO42";0
+456;"LRBC";"Bacau George Enescu";"Romania";"RO211";;"RO211";"RO21";0
+457;"LRBS,LROP";"Bukarest-Baneasa, Bukarest-Henri Coanda";"Romania";"RO321,RO322";"RO001MC";"RO321,RO322";"RO32";0
+458;"LRCK,LRTZ";"Constanta, Tuzla";"Romania";"RO223";"RO501M";"RO223";"RO22";0
+459;"LRCL";"Cluj";"Romania";"RO113";"RO002M";"RO113";"RO11";0
+460;"LRCV";"Craiova";"Romania";"RO411";"RO004M";"RO411";"RO41";0
+461;"LRIA";"Iasi";"Romania";"RO213";"RO502M";"RO213";"RO21";0
+462;"LROD";"Oradea";"Romania";"RO111";;"RO111";"RO11";0
+463;"LRSB";"Hermannstadt (Sibiu)";"Romania";"RO126";;"RO126";"RO12";0
+464;"LRSV";"Suceava";"Romania";"RO215";;"RO215";"RO21";0
+465;"LRTM";"Targu Mures";"Romania";"RO125";;"RO125";"RO12";0
+466;"LRTR";"Timisoara";"Romania";"RO424";"RO003M";"RO424";"RO42";0
+467;"LSGC";"Les Eplatures";"Switzerland";"CH024";;"CH024";"CH02";0
+468;"LSGG";"Genf";"Switzerland";"CH013";"CH002M";"CH013";"CH01";0
+469;"LSGL";"Lausanne-Blecherette";"Switzerland";"CH011";"CH005M";"CH011";"CH01";0
+470;"LSGS";"Sitten";"Switzerland";"CH012";;"CH012";"CH01";0
+471;"LSZB,LSGK";"Bern-Belp, Saanen";"Switzerland";"CH021";"CH004MC";"CH021";"CH02";0
+472;"LSZF";"Birrfeld";"Switzerland";"CH033";;"CH033";"CH03";0
+473;"LSZG";"Grenchen";"Switzerland";"CH023";;"CH023";"CH02";0
+474;"LSZH";"Zürich";"Switzerland";"CH040";"CH001M";"CH040";"CH04";0
+475;"LSZL,LSZA";"Locarno, Lugano-Agno";"Switzerland";"CH070";;"CH070";"CH07";0
+476;"LSZR";"St. Gallen-Altenrhein";"Switzerland";"CH055";;"CH055";"CH05";0
+477;"LSZS";"Samedan (Engadin)";"Switzerland";"CH056";;"CH056";"CH05";0
+478;"LTAC,LTAD";"Ankara-Esenboga, Etimesgut AB (Ankara)";"Turkey";"TR510";;"TR510";"TR51";0
+479;"LTAF,LTAG";"Adana, Incirlik AB";"Turkey";"TR621";;"TR621";"TR62";0
+480;"LTAI,LTFG";"Antalya, Gazipasa";"Turkey";"TR611";;"TR611";"TR61";0
+481;"LTAJ";"Gaziantep";"Turkey";"TRC11";;"TRC11";"TRC1";0
+482;"LTAL";"Kastamonu";"Turkey";"TR821";;"TR821";"TR82";0
+483;"LTAN";"Konya";"Turkey";"TR521";;"TR521";"TR52";0
+484;"LTAP";"Amasya-Merzifon";"Turkey";"TR834";;"TR834";"TR83";0
+485;"LTAR";"Sivas-Nuri Demirag";"Turkey";"TR722";;"TR722";"TR72";0
+486;"LTAT";"Malatya-Erhac";"Turkey";"TRB11";;"TRB11";"TRB1";0
+487;"LTAU";"Kayseri";"Turkey";"TR721";;"TR721";"TR72";0
+488;"LTAY";"Denizli-Cardak";"Turkey";"TR322";;"TR322";"TR32";0
+489;"LTAZ";"Nevsehir-Kapadokya";"Turkey";"TR714";;"TR714";"TR71";0
+490;"LTBA,LTFJ";"Istanbul-Atatürk, Istanbul-Sabiha Gökcen";"Turkey";"TR100";;"TR100";"TR10";0
+491;"LTBH";"Canakkale";"Turkey";"TR222";;"TR222";"TR22";0
+492;"LTBI,LTBY";"Eskisehir Air Base, Eskisehir-Anadolu";"Turkey";"TR412";;"TR412";"TR41";0
+493;"LTBJ";"Izmir-Adnan Menderes";"Turkey";"TR310";;"TR310";"TR31";0
+494;"LTBO";"Usak";"Turkey";"TR334";;"TR334";"TR33";0
+495;"LTBR";"Bursa-Yenisehir";"Turkey";"TR411";;"TR411";"TR41";0
+496;"LTBU";"Tekirdag-Corlu";"Turkey";"TR211";;"TR211";"TR21";0
+497;"LTBZ";"Kütahya-Zafer";"Turkey";"TR331";;"TR331";"TR33";0
+498;"LTCA";"Elazig";"Turkey";"TRB12";;"TRB12";"TRB1";0
+499;"LTCC";"Diyarbakir";"Turkey";"TRC22";;"TRC22";"TRC2";0
+500;"LTCD";"Erzincan";"Turkey";"TRA12";;"TRA12";"TRA1";0
+501;"LTCE";"Erzurum";"Turkey";"TRA11";;"TRA11";"TRA1";0
+502;"LTCF";"Kars-Harakani";"Turkey";"TRA22";;"TRA22";"TRA2";0
+503;"LTCG";"Trabzon";"Turkey";"TR901";;"TR901";"TR90";0
+504;"LTCI";"Van-Ferit Melen";"Turkey";"TRB21";;"TRB21";"TRB2";0
+505;"LTCJ";"Batman Airport";"Turkey";"TRC32";;"TRC32";"TRC3";0
+506;"LTCK";"Mus-Sultan Alparslan";"Turkey";"TRB22";;"TRB22";"TRB2";0
+507;"LTCM";"Sinop";"Turkey";"TR823";;"TR823";"TR82";0
+508;"LTCN";"Kahramanmaras";"Turkey";"TR632";;"TR632";"TR63";0
+509;"LTCO,LTCB";"Agri-Ahmed-i Hani, Ordu-Giresun";"Turkey";"TRA21";;"TRA21";"TRA2";0
+510;"LTCP";"Adiyaman";"Turkey";"TRC12";;"TRC12";"TRC1";0
+511;"LTCR";"Mardin";"Turkey";"TRC31";;"TRC31";"TRC3";0
+512;"LTCS";"Sanliurfa-GAP";"Turkey";"TRC21";;"TRC21";"TRC2";0
+513;"LTCT";"Igdir";"Turkey";"TRA23";;"TRA23";"TRA2";0
+514;"LTCU";"Bingöl";"Turkey";"TRB13";;"TRB13";"TRB1";0
+515;"LTCV";"Sirnak";"Turkey";"TRC33";;"TRC33";"TRC3";0
+516;"LTCW";"Hakkari-Yüksekova";"Turkey";"TRB24";;"TRB24";"TRB2";0
+517;"LTDA";"Hatay";"Turkey";"TR631";;"TR631";"TR63";0
+518;"LTFC";"Isparta-Süleyman Demirel";"Turkey";"TR612";;"TR612";"TR61";0
+519;"LTFD";"Balikesir-Koca Seyit";"Turkey";"TR221";;"TR221";"TR22";0
+520;"LTFE,LTBS";"Bodrum-Milas, Dalaman";"Turkey";"TR323";;"TR323";"TR32";0
+521;"LTFH";"Samsun-Carsamba";"Turkey";"TR831";;"TR831";"TR83";0
+522;"LWOH";"Ohrid";"North Macedonia";"MK003";;"MK003";"MK00";0
+523;"LWSK";"Skopje";"North Macedonia";"MK008";;"MK008";"MK00";0
+524;"LYBE";"Belgrad Nikola-Tesla";"Serbia";"RS110";;"RS110";"RS11";0
+525;"LYNI";"Nis";"Serbia";"RS225";;"RS225";"RS22";0
+526;"LYPG,LYTV";"Podgorica, Tivat";"Montenegro";"ME000";;"ME000";"ME00";1
+527;"LZIB";"Bratislava";"Slovakia";"SK010";"SK001MC";"SK010";"SK01";1
+528;"LZKZ";"Kosice";"Slovakia";"SK042";"SK002M";"SK042";"SK04";1
+529;"LZSL";"Sliac";"Slovakia";"SK032";;"SK032";"SK03";1
+530;"LZTT";"Poprad-Tatry";"Slovakia";"SK041";;"SK041";"SK04";1
+531;"LZZI";"Zilina";"Slovakia";"SK031";;"SK031";"SK03";1
